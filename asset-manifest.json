@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/giovanni-marletta-portfolio/static/css/main.5fc58803.css",
+    "main.js": "/giovanni-marletta-portfolio/static/js/main.da46063e.js",
+    "static/media/thumbnail-project-6-large.jpg": "/giovanni-marletta-portfolio/static/media/thumbnail-project-6-large.1834124450be8329216e.jpg",
+    "static/media/photo-grey.png": "/giovanni-marletta-portfolio/static/media/photo-grey.d8c28e447dac77ebf1c6.png",
+    "static/media/thumbnail-project-5-large.jpg": "/giovanni-marletta-portfolio/static/media/thumbnail-project-5-large.fef5398f58cadabe99d5.jpg",
+    "static/media/thumbnail-project-4-large.jpg": "/giovanni-marletta-portfolio/static/media/thumbnail-project-4-large.8f6cd95c6683e4931a59.jpg",
+    "static/media/thumbnail-project-1-large.webp": "/giovanni-marletta-portfolio/static/media/thumbnail-project-1-large.751a4aca20e0604e0904.webp",
+    "static/media/thumbnail-project-2-large.jpg": "/giovanni-marletta-portfolio/static/media/thumbnail-project-2-large.dc0d963fc9dcab96876f.jpg",
+    "static/media/thumbnail-project-3-large.webp": "/giovanni-marletta-portfolio/static/media/thumbnail-project-3-large.204666234bbd998df57f.webp",
+    "static/media/icon-instagram.svg": "/giovanni-marletta-portfolio/static/media/icon-instagram.4550468edd3b1ef3d7e9c7e4de60d322.svg",
+    "index.html": "/giovanni-marletta-portfolio/index.html",
+    "static/media/icon-github.svg": "/giovanni-marletta-portfolio/static/media/icon-github.376f746105559084ee856620094454e7.svg",
+    "static/media/icon-twitter.svg": "/giovanni-marletta-portfolio/static/media/icon-twitter.dd64d4730caddd2195075725163d1700.svg",
+    "static/media/icon-linkedin.svg": "/giovanni-marletta-portfolio/static/media/icon-linkedin.299a1d811c6c10d4964a7018ae43228e.svg",
+    "static/media/pattern-rings.svg": "/giovanni-marletta-portfolio/static/media/pattern-rings.e62a24d55bee668faa1f245882fad1b7.svg",
+    "main.5fc58803.css.map": "/giovanni-marletta-portfolio/static/css/main.5fc58803.css.map",
+    "main.da46063e.js.map": "/giovanni-marletta-portfolio/static/js/main.da46063e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fc58803.css",
+    "static/js/main.da46063e.js"
+  ]
+}
