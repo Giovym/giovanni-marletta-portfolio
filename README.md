@@ -1,4 +1,4 @@
-# Entertainment web app
+# Giovanni Marletta Portfolio
 
 ## Table of contents
 
