@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/giovanni-marletta-portfolio/static/css/main.e2017ba7.css",
-    "main.js": "/giovanni-marletta-portfolio/static/js/main.99f32149.js",
+    "main.css": "/giovanni-marletta-portfolio/static/css/main.6a165be3.css",
+    "main.js": "/giovanni-marletta-portfolio/static/js/main.93b716b6.js",
     "static/media/thumbnail-project-6-large.jpg": "/giovanni-marletta-portfolio/static/media/thumbnail-project-6-large.1834124450be8329216e.jpg",
     "static/media/photo-grey.png": "/giovanni-marletta-portfolio/static/media/photo-grey.d8c28e447dac77ebf1c6.png",
     "static/media/thumbnail-project-5-large.jpg": "/giovanni-marletta-portfolio/static/media/thumbnail-project-5-large.fef5398f58cadabe99d5.jpg",
@@ -15,11 +15,11 @@
     "static/media/icon-twitter.svg": "/giovanni-marletta-portfolio/static/media/icon-twitter.dd64d4730caddd2195075725163d1700.svg",
     "static/media/icon-linkedin.svg": "/giovanni-marletta-portfolio/static/media/icon-linkedin.299a1d811c6c10d4964a7018ae43228e.svg",
     "static/media/pattern-rings.svg": "/giovanni-marletta-portfolio/static/media/pattern-rings.e62a24d55bee668faa1f245882fad1b7.svg",
-    "main.e2017ba7.css.map": "/giovanni-marletta-portfolio/static/css/main.e2017ba7.css.map",
-    "main.99f32149.js.map": "/giovanni-marletta-portfolio/static/js/main.99f32149.js.map"
+    "main.6a165be3.css.map": "/giovanni-marletta-portfolio/static/css/main.6a165be3.css.map",
+    "main.93b716b6.js.map": "/giovanni-marletta-portfolio/static/js/main.93b716b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2017ba7.css",
-    "static/js/main.99f32149.js"
+    "static/css/main.6a165be3.css",
+    "static/js/main.93b716b6.js"
   ]
 }
