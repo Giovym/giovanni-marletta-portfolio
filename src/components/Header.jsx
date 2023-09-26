@@ -18,7 +18,7 @@ const Header = () => {
 
   return (
     <div className='h-fit xl:h-screen flex flex-col sm-flex-row items-center sm:items-stretch mx-8 lg:mx-20 xl:mx-32 mb-12 sm:mb-10'>
-      <div className='container h-full sm:w-2/3 flex flex-col items-center justify-start sm:justify-between gap-4 sm:gap-0 sm:block'>
+      <div className='container h-full sm:w-2/3 flex flex-col items-center justify-start sm:justify-between gap-4 sm:gap-0 sm:block z-10'>
         <h4 className='text-white font-bold pt-4 sm:pt-10 text-2xl sm:text-3xl'>
           giovanni marletta
         </h4>
@@ -87,7 +87,7 @@ const Header = () => {
           </button>
         </div>
       </div>
-      <div className='absolute hidden sm:flex flex-col sm:right-0 lg:right-20 xl:right-32 top-30 sm:top-auto w-1/2 sm:w-1/3 h-1/2 md:h-fit  bg-dark-grey -z-10'>
+      <div className='absolute hidden sm:flex flex-col sm:right-0 lg:right-20 xl:right-32 top-30 sm:top-auto w-1/2 sm:w-1/3 h-1/2 md:h-fit bg-dark-grey'>
         <nav className='container flex justify-evenly sm:justify-end gap-6 pt-4 sm:pt-10 pr-0 sm:pr-10'>
           <a href='https://github.com/Giovym'>
             <img src={IconGithub} alt='an icon of github' />
